@@ -49,7 +49,7 @@ _✨ 天文AI大模型一期 - 预备 &nbsp; | &nbsp; 代码与模型✨_
    验证集准确率最高的一个epoch里，训练集和验证集的准确率分别是99.99%和99.52%。基本上一个epoch就够用，如果batch_size选更小一点的话。这也是没构建更大一点的ResNet50的原因，因为ResNet18够用了。
 4. 测试结果 - 对`test_data.fits`中的数据进行预测，结果写在`Spec_Test.csv`里。
 
----
+</br>
 
 ## <div align="center">对天文大模型的理解</div>
 
