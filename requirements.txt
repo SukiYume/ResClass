@@ -1,0 +1,11 @@
+numpy
+pandas
+h5py
+astropy
+matplotlib
+seaborn
+tqdm
+Pillow
+torch
+torchvision
+timm
